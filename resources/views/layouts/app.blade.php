@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title')</title>
     <link href="{{ asset('css/daisyui5.css') }}" rel="stylesheet" type="text/css"/>
-    <script src="{{asset('js/tailwindcss4.js')}}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
 @auth
 @php
