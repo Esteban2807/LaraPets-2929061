@@ -11,7 +11,7 @@
                items-center
                p-8
                rounded-sm">
-        <img class="w-[360px]" src="{{asset('images/logo.png')}}" alt="">
+        <img class="w-[360px]" src="{{asset('images/logo.svg')}}" alt="">
         <p class="text-justify">
            <strong>Larapets</strong> "Cada mascota tiene una historia. Cada hogar, un lugar vacío esperando ser llenado. Adoptar es darle a alguien una segunda oportunidad… y recibir amor para toda la vida. Adopta, no compres."</p>
            <div class="flex gap-2 justify-between mt-8">
